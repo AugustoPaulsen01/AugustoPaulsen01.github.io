@@ -1,5 +1,4 @@
 .depoimento {
-  max-width: 1400px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   background-color: var(--cor-p1);
@@ -15,7 +14,7 @@
 }
 
 .depoimento-conteudo {
-  padding: 40px 40px 160px 80px;
+  padding: 40px 40px 80px 80px;
   align-self: end;
 }
 
